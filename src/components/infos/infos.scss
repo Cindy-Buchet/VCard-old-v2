@@ -1,0 +1,36 @@
+.section-infos{
+    .img-infos{
+        width: 80%;
+        margin-bottom: 30px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: -16px 16px 0px #aaa;
+    }
+    li{
+        display: grid;
+        grid-template-columns: 43% 55%;
+        word-break: break-all;
+    }
+    .li-gauche{
+        grid-column: 1;
+        font-weight: bold;
+        color: #7A2100;
+    }
+    .li-droite{
+        grid-column: 2;
+    }
+    ul{
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .img-liens{
+        width: 30px;
+        height: 30px;
+        &:hover{
+            opacity: 0.5;
+        }
+    } 
+}
