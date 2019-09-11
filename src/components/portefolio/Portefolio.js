@@ -7,7 +7,7 @@ import Projets from './components-portefolio/projets';
 export default class Portefolio extends Component{
     render(){
         return (
-            <section id="portefolio">
+            <section id="portfolio">
                 <ParallaxPortefolio />
                 <Projets />
             </section>

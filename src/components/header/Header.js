@@ -23,7 +23,7 @@ export default class Header extends Component{
                             <a className="nav-link" href="#competence">Compétences</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#portefolio">Portefolio</a>
+                            <a className="nav-link" href="#portfolio">Portfolio</a>
                         </li>    
                         </ul>
                     </div>  
