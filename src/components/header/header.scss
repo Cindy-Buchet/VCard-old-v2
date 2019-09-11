@@ -22,6 +22,9 @@ header {
     .navbar-brand{
       color: white !important;
     }
+    li:hover{
+      color: grey;
+    }
     h1{
       text-transform: uppercase;
       border: 2px solid white;

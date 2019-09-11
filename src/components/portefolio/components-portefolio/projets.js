@@ -8,7 +8,7 @@ export default class Projets extends Component{
             <section className="section-competence container">
                 <div className="row">
                     <div className="col-12">
-                    <ScrollAnimation animateIn='fadeIn'><h2>Portefolio</h2></ScrollAnimation>
+                    <ScrollAnimation animateIn='fadeIn'><h2>Portfolio</h2></ScrollAnimation>
                     </div>
                 
                     <div className="col-lg-3 col-md-4  col-sm-6">
