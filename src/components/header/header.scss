@@ -23,7 +23,10 @@ header {
       color: white !important;
     }
     li:hover{
-      color: grey;
+      color: grey !important;
+    }
+    a:hover{
+      color: grey !important;
     }
     h1{
       text-transform: uppercase;
