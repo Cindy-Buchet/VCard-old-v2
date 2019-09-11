@@ -20,7 +20,7 @@ export default class Infos extends Component{
                     <div className="col-md-6">
                     <ScrollAnimation animateIn='fadeIn'>
                         <p>Je suis passionnée par le développement de projets web. M’intéressant aux nouvelles technologies, je me suis donc tournée vers une formation de web développeuse à Becode.  Je suis à BeCode à Charleroi.</p>
-                        <p>J'aime créer un site de A à Z, penser à l'ergonomie et à la mise en place du site en code. Je réalise mes maquettes sur Photoshop avant de coder un site car au moins je sais dans quel direction me diriger une fois que je code. Je suis minutieuse avec le moindre détail, j'aime quand le site respecte respect les normes graphiques et que mon code soit propre.</p>
+                        <p>J'aime créer un site de A à Z, penser à l'ergonomie et à la mise en place du site en code. Je réalise mes maquettes sur Photoshop avant de coder un site car au moins je sais dans quel direction me diriger une fois que je code. Je suis minutieuse avec le moindre détail, j'aime quand le site respecte les normes graphiques et que mon code soit propre.</p>
                         <p>Grâce à ma formation à BeCode, j'ai pu apprendre à apprendre. J'aime travailler en groupe. Je trouve qu'à plusieurs têtes, on peut créer un magnifique site web surtout si chacun y met sa compétence principale! </p>
                     </ScrollAnimation>
 

@@ -26,7 +26,7 @@ export default class Developer extends Component{
                             <img src="./frontend.png" className="card-img-top" alt="Frontend" />
                             <div className="card-body">
                                 <h4 className="card-title">Front-end</h4>
-                                <p className="card-text">En général, je réalise mon siteweb avec REACT (ou HTML5), SASS et Bootstrap. Ces 3 langages combinés ensemble rendent le siteweb responsive, rapide et propre.</p>
+                                <p className="card-text">En général, je réalise mon site web avec REACT (ou HTML5), SASS et Bootstrap. Ces 3 langages combinés ensemble rendent le siteweb responsive, rapide et propre.</p>
                             </div>
                         </div>
                         </ScrollAnimation>
