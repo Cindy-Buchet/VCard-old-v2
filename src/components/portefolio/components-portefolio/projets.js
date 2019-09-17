@@ -52,7 +52,7 @@ export default class Projets extends Component{
                     <div className="col-lg-3 col-md-4 col-sm-6">
                         <ScrollAnimation animateIn='fadeIn'>
                         <div className="projets">
-                            <a href="http://cindybuchet.be/projets/webtypo/montrer/" rel="noopener noreferrer"> <img src="./restaurant.png" alt="Montrer" />
+                            <a href="https://cindy-buchet.github.io/restaurant-css-framework/" rel="noopener noreferrer"> <img src="./restaurant.png" alt="Montrer" />
                                 <div className="text">
                                     <h3>Japan House</h3>
                                     <p>Site pour un restaurant fictif, réalisé en Bootstrap.</p>
