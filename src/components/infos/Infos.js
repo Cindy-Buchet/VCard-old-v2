@@ -46,9 +46,9 @@ export default class Infos extends Component{
 
                     <ScrollAnimation animateIn='fadeIn'>
                         <div className="img__icons">
-                            <a href="https://twitter.com/MllCindy" > <img className="img-liens" alt="Linkedin" src="./linkedin.png"  /></a>
+                            <a href="https://www.linkedin.com/in/cindy-buchet/" > <img className="img-liens" alt="Linkedin" src="./linkedin.png"  /></a>
 
-                            <a href="https://dribbble.com/MllCindy" > <img className="img-liens" alt="GitHub" src="./github.png"  /></a>
+                            <a href="https://github.com/Cindy-Buchet?tab=repositories" > <img className="img-liens" alt="GitHub" src="./github.png"  /></a>
 
                             <a href="https://www.facebook.com/Mlle.Anonyme" > <img className="img-liens" alt="Facebook" src="./facebook.png" /></a>
                         </div>
