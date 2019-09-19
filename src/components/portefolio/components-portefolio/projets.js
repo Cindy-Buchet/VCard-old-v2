@@ -43,7 +43,7 @@ export default class Projets extends Component{
                                 <a href="https://totsuka.tk/" rel="noopener noreferrer"> <img src="./totsuka.png" alt="Montrer" />
                                     <div className="text">
                                         <h3>Totsuka</h3>
-                                        <p>Site a été réalisé pour mon Discord.</p>
+                                        <p>Site qui a été réalisé pour mon Discord.</p>
                                     </div>
                                 </a>
                             </div>
