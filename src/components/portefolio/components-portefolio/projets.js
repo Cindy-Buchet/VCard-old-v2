@@ -11,7 +11,7 @@ export default class Projets extends Component{
                     <ScrollAnimation animateIn='fadeIn'><h2>Portfolio</h2></ScrollAnimation>
                     </div>
                 
-                    <div className="col-lg-3 col-md-4  col-sm-6">
+                    <div className="col-md-4 col-sm-6">
                         <ScrollAnimation animateIn='fadeIn'>
                             <div className="projets">
                                 <a href="https://cindy-buchet.github.io/adopte-un-maitre/" rel="noopener noreferrer"> <img src="./adopte.jpg" alt="Adopte ton maître" />
@@ -24,7 +24,7 @@ export default class Projets extends Component{
                         </ScrollAnimation>
                     </div>
                 
-                    <div className="col-lg-3 col-md-4  col-sm-6">
+                    <div className="col-md-4 col-sm-6">
                         <ScrollAnimation animateIn='fadeIn'>
                             <div className="projets">
                                 <a href="http://2018.cindy-buchet.dwm.re/iolce/" rel="noopener noreferrer"> <img src="./dave.jpg" alt="Iolce" />
@@ -37,7 +37,7 @@ export default class Projets extends Component{
                         </ScrollAnimation>
                     </div>
                     
-                    <div className="col-lg-3 col-md-4  col-sm-6">
+                    <div className="col-md-4  col-sm-6">
                         <ScrollAnimation animateIn='fadeIn'>
                             <div className="projets">
                                 <a href="https://totsuka.tk/" rel="noopener noreferrer"> <img src="./totsuka.png" alt="Montrer" />
@@ -49,7 +49,7 @@ export default class Projets extends Component{
                             </div>
                         </ScrollAnimation>
                     </div>
-                    <div className="col-lg-3 col-md-4 col-sm-6">
+                    <div className="col-md-4 col-sm-6">
                         <ScrollAnimation animateIn='fadeIn'>
                         <div className="projets">
                             <a href="https://cindy-buchet.github.io/restaurant-css-framework/" rel="noopener noreferrer"> <img src="./restaurant.png" alt="Montrer" />
@@ -61,6 +61,19 @@ export default class Projets extends Component{
                         </div>
                         </ScrollAnimation>
                     </div>
+                
+                <div className="col-md-4  col-sm-6">
+                    <ScrollAnimation animateIn='fadeIn'>
+                        <div className="projets">
+                            <a href="http://2018.cindy-buchet.dwm.re/iolce/" rel="noopener noreferrer"> <img src="./pingpong.jpg" alt="Ping Pong" />
+                                <div className="text">
+                                    <h3>Ping Pong</h3>
+                                    <p>Sité réalisé en PHP, SQL.</p>
+                                </div>
+                            </a>
+                        </div>
+                    </ScrollAnimation>
+                </div>
 
                 </div>
             </section>
