@@ -65,7 +65,7 @@ export default class Projets extends Component{
                 <div className="col-md-4  col-sm-6">
                     <ScrollAnimation animateIn='fadeIn'>
                         <div className="projets">
-                            <a href="http://www.clubs-ping-pong.tk/" rel="noopener noreferrer"> <img src="./pingpong.jpg" alt="Ping Pong" />
+                            <a href="http://clubs-ping-pong.tk/" rel="noopener noreferrer"> <img src="./pingpong.jpg" alt="Ping Pong" />
                                 <div className="text">
                                     <h3>Ping Pong</h3>
                                     <p>Sité réalisé en PHP, SQL.</p>
